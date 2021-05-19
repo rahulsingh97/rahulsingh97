@@ -52,4 +52,5 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh97&layout=compact&theme=tokyonight)
 </br>LOL html is just websites hosted websites on my git
 
-![Profile views](https://gpvc.arturio.dev/rahulsingh97)
+![Profile views](https://gpvc.arturio.dev/rahulsingh97)![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky)
