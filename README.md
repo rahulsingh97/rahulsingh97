@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Please don't
 - 😄 Pronouns: I, You, He, She, It, We, You, They
 - ⚡ Fun fact: I'm not funny (get it? I'm funny because I'm unfunny. No? ok.)
--<br />
-- ### Languages and Tools:
+<br />
+### Languages and Tools:
 
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
