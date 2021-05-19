@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**rahulsingh97/rahulsingh97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hello there 😏
 
 - 🔭 I’m currently working on [AI AIMBOT]
