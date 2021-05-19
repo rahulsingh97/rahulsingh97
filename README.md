@@ -1,3 +1,15 @@
+<html>
+<head>
+<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+<i class="fas fa-cloud"></i>
+<i class="fas fa-heart"></i>
+<i class="fas fa-car"></i>
+<i class="fas fa-file"></i>
+<i class="fas fa-bars"></i>
+
 
 
 <!--
@@ -41,7 +53,7 @@ Here are some ideas to get you started:
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
 
 
-<> <a href="http://twitch.tv/lustbutt"> <img align="left" alt="twitch" width="26px" src="https://api.iconify.design/mdi:gmail.svg?color=%23EBEDEF"/></a>
+<!-- <a href="http://twitch.tv/lustbutt"> <img align="left" alt="twitch" width="26px" src="https://api.iconify.design/mdi:gmail.svg?color=%23EBEDEF"/></a> -->
 <br />
 <br />
 
@@ -54,3 +66,7 @@ Here are some ideas to get you started:
 
 ![Profile views](https://gpvc.arturio.dev/rahulsingh97)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulsingh97.rahulsingh97)
+  
+  
+  </body>
+  
