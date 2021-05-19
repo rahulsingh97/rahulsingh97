@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
 
 
-<a href="http://twitch.tv/lustbutt"> <img align="left" alt="twitch" width="26px" src="https://api.iconify.design/mdi:gmail.svg?color=%23EBEDEF"/></a>
+<> <a href="http://twitch.tv/lustbutt"> <img align="left" alt="twitch" width="26px" src="https://api.iconify.design/mdi:gmail.svg?color=%23EBEDEF"/></a>
 <br />
 <br />
 
