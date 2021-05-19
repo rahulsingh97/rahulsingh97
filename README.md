@@ -10,6 +10,8 @@
 <i class="fas fa-file"></i>
 <i class="fas fa-bars"></i>
 
+</body>
+
 
 
 <!--
@@ -68,5 +70,4 @@ Here are some ideas to get you started:
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulsingh97.rahulsingh97)
   
   
-  </body>
   
