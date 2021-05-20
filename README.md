@@ -1,7 +1,7 @@
 
 <h1 align="center"> 
   Hello there! 
-  <img src="git%20readme%20images/chotawolverine.gif" width="100">
+  <img src="git%20readme%20images/chotawolverine.gif" width="75">
 </h1>
 <p align="center">
   <a><img src="https://readme-typing-svg.herokuapp.com?center=true&lines=I'm+Rahul+Singh;I'm+a+Programmer;I'm+a+Gamer;I'm+a+Developer"></a>
