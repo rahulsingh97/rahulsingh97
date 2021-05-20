@@ -1,26 +1,11 @@
 
-
-
-
-<!--
-### Hi there 👋
-
-**rahulsingh97/rahulsingh97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2 align="center"> Hello there <img src="git%20readme%20images/chotawolverine.gif" width="50"></h2>
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&lines=I'm+Rahul+Singh;I'm+a+Programmer;I'm+a+Gamer;I'm+a+Developer"></h2>
-
+<h3 align="center"> 
+  Hello there! 
+  <img src="git%20readme%20images/chotawolverine.gif" width="50">
+</h3>
+<p align="center">
+  <a><img src="https://readme-typing-svg.herokuapp.com?center=true&lines=I'm+Rahul+Singh;I'm+a+Programmer;I'm+a+Gamer;I'm+a+Developer"></a>
+</p>  
 
 - 🔭 I’m currently working on [AI AIMBOT]
 - 🌱 I’m currently learning [AI/ML]
