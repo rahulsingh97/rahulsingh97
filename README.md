@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsingh97&show_icons=true&theme=tokyonight)
-<br>
+<!-- <br> -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh97&layout=compact&theme=tokyonight)
 </br>LOL html is just websites hosted websites on my git
 
