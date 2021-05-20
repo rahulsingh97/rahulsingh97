@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 ---
   
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=rahulsingh97&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=rahulsingh97&theme=midnight-purple&row=2&column=4)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsingh97&show_icons=true&theme=midnight-purple)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh97&layout=compact&theme=midnight-purple)
