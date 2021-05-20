@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 ![trophy](https://github-profile-trophy.vercel.app/?username=rahulsingh97&theme=darkhub&row=1&column=8&margin-w=11&margin-h=15) 
 <a  href="http://rahulrsingh.com"><img height="205px" src="https://github-readme-stats.vercel.app/api?username=rahulsingh97&show_icons=true&theme=midnight-purple"/>
   <img height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh97&layout=compact&theme=midnight-purple"/></a></br>
- LOL html is just websites hosted websites on my git
+ LOL html is just websites hosted websites on my Github
 
 ![Profile views](https://gpvc.arturio.dev/rahulsingh97)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulsingh97.rahulsingh97)
