@@ -25,10 +25,6 @@
 <a> <img align="left" alt="LUA" width="26px" src="git%20readme%20images/lua.png"/> </a>
 <a> <img align="left" alt="github" width="26px" src="git%20readme%20images/github.svg?raw=true"/> </a>
 <a> <img align="left" alt="ahk" width="60px" src="git%20readme%20images/AutoHotkey.png"/> </a>
-<!--
-<a href="http://www.lua.org" target="_blank"> <img align="left" alt="LUA" width="31px" src="git%20readme%20images/       ?raw=true"/> </a>
-<a> <img align="left" alt="ahk" width="60px" src="git%20readme%20images/AutoHotkey.png"/> </a>
--->
 
 
 <br />
@@ -49,31 +45,9 @@
 <a> <img align="left" alt="cheat_engine" width="26px" src="git%20readme%20images/CheatEngine.png"/> </a>
 
 
-
-
-<!-- <a href="http://twitch.tv/lustbutt"> <img align="left" alt="twitch" width="26px" src="https://api.iconify.design/mdi:gmail.svg?color=%23EBEDEF"/></a> -->
 <br />
 <br />
 
-  
-
-  
-  
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=rahulsingh97&theme=radical&row=2&column=4&margin-w=15&margin-h=15) -->
-<!--
-![trophy](https://github-profile-trophy.vercel.app/?username=rahulsingh97&theme=darkhub&row=1&column=8&margin-w=15&margin-h=15)
-</br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsingh97&show_icons=true&theme=midnight-purple)   
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh97&layout=compact&theme=midnight-purple)
-</br>
-
- <a  href="http://rahulrsingh.com"><img height="250px" src="https://github-profile-trophy.vercel.app/?username=rahulsingh97&theme=darkhub&row=2&column=4&margin-w=15&margin-h=15"/></a> 
-
-
-
- -->
- 
 ### Trophies:
  
 ![trophy](https://github-profile-trophy.vercel.app/?username=rahulsingh97&theme=darkhub&row=1&column=8&margin-w=11&margin-h=15) 
@@ -85,17 +59,6 @@
   <img height="177px" src="https://activity-graph.herokuapp.com/graph?username=rahulsingh97&theme=redical"/></a>  
  
  
- <!--
-  </br>
-LOL html is just websites hosted websites on my Github
-
-
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rahulsingh97&theme=midnight-purple)](https://git.io/streak-stats)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rahulsingh97&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
--->
 </br>
 
 
