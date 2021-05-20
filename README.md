@@ -106,6 +106,9 @@ LOL html is just websites hosted websites on my Github
 
 -->
 </br>
+<code>
+          <a href="http://rahulrsingh.com"> [rahulrsingh.com] </a>
+</code>
 
 ![Profile views](https://gpvc.arturio.dev/rahulsingh97)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulsingh97.rahulsingh97)
