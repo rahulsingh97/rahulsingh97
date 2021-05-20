@@ -109,10 +109,12 @@ LOL html is just websites hosted websites on my Github
 <code>
           <a href="http://rahulrsingh.com"> [rahulrsingh.com] </a>
 </code>
-<a><src="https://gpvc.arturio.dev/rahulsingh97"/></a>
-<a><src="https://visitor-badge.laobi.icu/badge?page_id=rahulsingh97.rahulsingh97"/></a>
 
+<a><img height="20px" src="https://gpvc.arturio.dev/rahulsingh97"/></a>
+<a><img height="20px" src="https://visitor-badge.laobi.icu/badge?page_id=rahulsingh97.rahulsingh97"/></a>
 
+![Profile views](https://gpvc.arturio.dev/rahulsingh97)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulsingh97.rahulsingh97)
 
   
 <!-- https://github.com/anuraghazra/github-readme-stats               -->
