@@ -49,17 +49,17 @@ Here are some ideas to get you started:
 
 ### Softwares:
 
-<a> <img align="left" alt="vs_code" width="60px" src="git%20readme%20images/vs_code.png"/> </a>
-<a> <img align="left" alt="vs_studio" width="60px" src="git%20readme%20images/vs_studio.png"/> </a>
-<a> <img align="left" alt="android_studio" width="60px" src="git%20readme%20images/android.png"/> </a>
-<a> <img align="left" alt="pycharm" width="60px" src="git%20readme%20images/pycharm.png"/> </a>
-<a> <img align="left" alt="arduino" width="60px" src="git%20readme%20images/arduino.png"/> </a>
-<a> <img align="left" alt="colab" width="60px" src="git%20readme%20images/colab.png"/> </a>
-<a> <img align="left" alt="photoshop" width="60px" src="git%20readme%20images/ps.png"/> </a>
-<a> <img align="left" alt="lightroom" width="60px" src="git%20readme%20images/lr.png"/> </a>
-<a> <img align="left" alt="aftereffects" width="60px" src="git%20readme%20images/ae.png"/> </a>
-<a> <img align="left" alt="premier_pro" width="60px" src="git%20readme%20images/pr.png"/> </a>
-<a> <img align="left" alt="cheat_engine" width="60px" src="git%20readme%20images/CheatEngine.png"/> </a>
+<a> <img align="left" alt="vs_code" width="26px" src="git%20readme%20images/vs_code.png"/> </a>
+<a> <img align="left" alt="vs_studio" width="26px" src="git%20readme%20images/vs_studio.png"/> </a>
+<a> <img align="left" alt="android_studio" width="26px" src="git%20readme%20images/android.png"/> </a>
+<a> <img align="left" alt="pycharm" width="26px" src="git%20readme%20images/pycharm.png"/> </a>
+<a> <img align="left" alt="arduino" width="26px" src="git%20readme%20images/arduino.png"/> </a>
+<a> <img align="left" alt="Jupyter" width="26px" src="git%20readme%20images/jupyter.png"/> </a>
+<a> <img align="left" alt="photoshop" width="26px" src="git%20readme%20images/ps.png"/> </a>
+<a> <img align="left" alt="lightroom" width="26px" src="git%20readme%20images/lr.png"/> </a>
+<a> <img align="left" alt="aftereffects" width="26px" src="git%20readme%20images/ae.png"/> </a>
+<a> <img align="left" alt="premier_pro" width="26px" src="git%20readme%20images/pr.png"/> </a>
+<a> <img align="left" alt="cheat_engine" width="26px" src="git%20readme%20images/CheatEngine.png"/> </a>
 
 
 
