@@ -91,10 +91,11 @@ Here are some ideas to get you started:
 <a  href="http://rahulrsingh.com"><img height="205px" src="https://github-readme-stats.vercel.app/api?username=rahulsingh97&show_icons=true&theme=midnight-purple"/>
   <img height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh97&layout=compact&theme=midnight-purple"/></a></br>
 LOL html is just websites hosted websites on my Github
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rahulsingh97&theme=midnight-purple)](https://git.io/streak-stats)
+
 </br>
-![dsadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh97&theme=midnight-purple)
 ![Profile views](https://gpvc.arturio.dev/rahulsingh97)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulsingh97.rahulsingh97)
   
-<!-- <a href="http://rahulrsingh.com"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=rahulsingh97&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh97&hide=html&hide_title=false&hide_border=false&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>-->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
   
