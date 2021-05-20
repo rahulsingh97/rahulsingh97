@@ -105,7 +105,7 @@ LOL html is just websites hosted websites on my Github
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rahulsingh97&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 -->
----
+</br>
 
 
 <a><img height="20px" src="https://gpvc.arturio.dev/rahulsingh97"/></a>
