@@ -35,6 +35,14 @@ Here are some ideas to get you started:
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+
+
+<a href="http://www.lua.org" target="_blank"> <img align="left" alt="LUA" width="26px" src="https://img.shields.io/static/v1?label=%20&message=%20&color=2C2D72&logo=lua"/> </a>
+
+
+
+
+
 <br />
 <br />
 ### Softwares:
