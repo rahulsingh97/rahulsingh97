@@ -90,8 +90,8 @@ Here are some ideas to get you started:
 ![trophy](https://github-profile-trophy.vercel.app/?username=rahulsingh97&theme=darkhub&row=1&column=8&margin-w=11&margin-h=15) 
 <a  href="http://rahulrsingh.com"><img height="205px" src="https://github-readme-stats.vercel.app/api?username=rahulsingh97&show_icons=true&theme=midnight-purple"/>
   <img height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh97&layout=compact&theme=midnight-purple"/></a>
-<a  href="http://rahulrsingh.com"><img height="150px" src="http://github-readme-streak-stats.herokuapp.com?user=rahulsingh97&theme=midnight-purple"/>
-  <img height="150px" src="https://activity-graph.herokuapp.com/graph?username=rahulsingh97&theme=redical"/></a>  
+<a  href="http://rahulrsingh.com"><img height="180px" src="http://github-readme-streak-stats.herokuapp.com?user=rahulsingh97&theme=midnight-purple"/>
+  <img height="180px" src="https://activity-graph.herokuapp.com/graph?username=rahulsingh97&theme=redical"/></a>  
  
  
  <!--
