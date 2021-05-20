@@ -110,7 +110,7 @@ LOL html is just websites hosted websites on my Github
 ![Profile views](https://gpvc.arturio.dev/rahulsingh97)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulsingh97.rahulsingh97)
   
-<!-- https://github.com/anuraghazra/github-readme-stats         -->
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->  
+<!-- https://github.com/anuraghazra/github-readme-stats            -->
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats    -->  
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 
