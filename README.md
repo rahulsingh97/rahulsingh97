@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hello there 😏 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<h2> Hello there 😏 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 - 🔭 I’m currently working on [AI AIMBOT]
 - 🌱 I’m currently learning [AI/ML]
@@ -58,11 +58,14 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+  
 ---
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsingh97&show_icons=true&theme=tokyonight)
+  
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=rahulsingh97&theme=midnight-purple&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsingh97&show_icons=true&theme=midnight-purple)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh97&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh97&layout=compact&theme=midnight-purple)
 </br>LOL html is just websites hosted websites on my git
 
 ![Profile views](https://gpvc.arturio.dev/rahulsingh97)
