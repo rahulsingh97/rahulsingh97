@@ -115,3 +115,6 @@ LOL html is just websites hosted websites on my Github
 <!-- https://github.com/arturssmirnovs/github-profile-views-counter   -->
 <!-- https://visitor-badge.laobi.icu                                  -->
 <!-- https://github.com/DenverCoder1/readme-typing-svg                -->
+<!-- https://github.com/badges/shields                                -->
+<!-- https://github.com/DenverCoder1/github-readme-youtube-stats      -->
+<!-- https://github.com/DenverCoder1/Simple-View-Counter              -->
