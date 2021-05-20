@@ -89,13 +89,24 @@ Here are some ideas to get you started:
  
 ![trophy](https://github-profile-trophy.vercel.app/?username=rahulsingh97&theme=darkhub&row=1&column=8&margin-w=11&margin-h=15) 
 <a  href="http://rahulrsingh.com"><img height="205px" src="https://github-readme-stats.vercel.app/api?username=rahulsingh97&show_icons=true&theme=midnight-purple"/>
-  <img height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh97&layout=compact&theme=midnight-purple"/></a></br>
+  <img height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh97&layout=compact&theme=midnight-purple"/></a>
+<a  href="http://rahulrsingh.com"><img height="205px" src="http://github-readme-streak-stats.herokuapp.com?user=rahulsingh97&theme=midnight-purple"/>
+  <img height="205px" src="https://activity-graph.herokuapp.com/graph?username=rahulsingh97&theme=redical"/></a>  
+ 
+ 
+ <!--
+  </br>
 LOL html is just websites hosted websites on my Github
+
+
+
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rahulsingh97&theme=midnight-purple)](https://git.io/streak-stats)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rahulsingh97&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+-->
 </br>
+
 ![Profile views](https://gpvc.arturio.dev/rahulsingh97)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulsingh97.rahulsingh97)
   
