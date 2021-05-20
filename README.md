@@ -49,8 +49,9 @@ Here are some ideas to get you started:
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsingh97&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh97&layout=compact&theme=tokyonight)
-<!-- <br> -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsingh97&show_icons=true&theme=tokyonight)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh97&layout=compact&theme=tokyonight)
 </br>LOL html is just websites hosted websites on my git
 
 ![Profile views](https://gpvc.arturio.dev/rahulsingh97)
