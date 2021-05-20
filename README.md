@@ -92,10 +92,13 @@ Here are some ideas to get you started:
   <img height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh97&layout=compact&theme=midnight-purple"/></a></br>
 LOL html is just websites hosted websites on my Github
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rahulsingh97&theme=midnight-purple)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rahulsingh97&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 </br>
 ![Profile views](https://gpvc.arturio.dev/rahulsingh97)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulsingh97.rahulsingh97)
   
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-  
+<!-- https://github.com/anuraghazra/github-readme-stats         -->
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->  
+
