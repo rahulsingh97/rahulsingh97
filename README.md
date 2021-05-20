@@ -106,14 +106,15 @@ LOL html is just websites hosted websites on my Github
 
 -->
 </br>
-<code>
-          <a href="http://rahulrsingh.com"> [rahulrsingh.com] </a>
-</code>
+
 
 <a><img height="20px" src="https://gpvc.arturio.dev/rahulsingh97"/></a>
 <a><img height="20px" src="https://visitor-badge.laobi.icu/badge?page_id=rahulsingh97.rahulsingh97"/></a>
 
 
+<code>
+          <a href="http://rahulrsingh.com"> [rahulrsingh.com] </a>
+</code>
   
 <!-- https://github.com/anuraghazra/github-readme-stats               -->
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats       -->  
