@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 
 
-<a href="http://www.lua.org" target="_blank"> <img align="left" alt="LUA" width="26px" src="https://img.shields.io/static/v1?label=%20&message=%20&color=2C2D72&logo=lua"/> </a>
+<a href="http://www.lua.org" target="_blank"> <img align="left" alt="LUA" width="80px" src="https://img.shields.io/static/v1?label=%20&message=%20&color=2C2D72&logo=lua"/> </a>
 
 
 
