@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> Hello there, I'm Rahul R singh  <img src="github.com/rahulsingh97/rahulsingh97/tree/main/git%20readme%20images/wolverine.gif" width="50"></h2>
+<h2> Hello there, I'm Rahul R singh  <img src="github.com/rahulsingh97/rahulsingh97/tree/main/git%20readme%20images/chotawolverine.gif" width="50"></h2>
 
 - 🔭 I’m currently working on [AI AIMBOT]
 - 🌱 I’m currently learning [AI/ML]
