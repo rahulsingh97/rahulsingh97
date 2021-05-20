@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm not funny (get it? I'm funny because I'm unfunny. No? ok.)
 <br />
 
+---
+
 ### Languages and Tools:
 
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
