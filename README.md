@@ -68,11 +68,14 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsingh97&show_icons=true&theme=midnight-purple)   
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh97&layout=compact&theme=midnight-purple)
-  
+ <a  href="http://rahulrsingh.com"><img height="137px" src="https://github-profile-trophy.vercel.app/?username=rahulsingh97&theme=darkhub&row=1&column=8&margin-w=15&margin-h=15"/></a> 
+<a  href="http://rahulrsingh.com"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=rahulsingh97&show_icons=true&theme=midnight-purple"/>
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh97&layout=compact&theme=midnight-purple"/></a>
+ 
 </br>LOL html is just websites hosted websites on my git
 
 ![Profile views](https://gpvc.arturio.dev/rahulsingh97)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulsingh97.rahulsingh97)
   
-<a href="rahulrsingh.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=rahulsingh97&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh97&hide=html&hide_title=false&hide_border=false&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<!-- <a href="http://rahulrsingh.com"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=rahulsingh97&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh97&hide=html&hide_title=false&hide_border=false&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>-->
   
