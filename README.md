@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2> Hello there <img src="git%20readme%20images/chotawolverine.gif" width="50"></h2>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=I'm+Rahul+Singh;I'm+a+Programmer;I'm+a+Gamer;I'm+a+Developer)](https://git.io/typing-svg)
+<h2><img src="https://readme-typing-svg.herokuapp.com?center=true&lines=I'm+Rahul+Singh;I'm+a+Programmer;I'm+a+Gamer;I'm+a+Developer"></h2>
+
 
 - 🔭 I’m currently working on [AI AIMBOT]
 - 🌱 I’m currently learning [AI/ML]
