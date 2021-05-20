@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 <a> <img align="left" alt="ahk" width="60px" src="git%20readme%20images/AutoHotkey.png"/> </a>
 <!--
 <a href="http://www.lua.org" target="_blank"> <img align="left" alt="LUA" width="31px" src="git%20readme%20images/       ?raw=true"/> </a>
+<a> <img align="left" alt="ahk" width="60px" src="git%20readme%20images/AutoHotkey.png"/> </a>
 -->
 
 
@@ -48,10 +49,19 @@ Here are some ideas to get you started:
 
 ### Softwares:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
+<a> <img align="left" alt="vs_code" width="60px" src="git%20readme%20images/vs_code.png"/> </a>
+<a> <img align="left" alt="vs_studio" width="60px" src="git%20readme%20images/vs_studio.png"/> </a>
+<a> <img align="left" alt="android_studio" width="60px" src="git%20readme%20images/android.png"/> </a>
+<a> <img align="left" alt="pycharm" width="60px" src="git%20readme%20images/pycharm.png"/> </a>
+<a> <img align="left" alt="arduino" width="60px" src="git%20readme%20images/arduino.png"/> </a>
+<a> <img align="left" alt="colab" width="60px" src="git%20readme%20images/colab.png"/> </a>
+<a> <img align="left" alt="photoshop" width="60px" src="git%20readme%20images/ps.png"/> </a>
+<a> <img align="left" alt="lightroom" width="60px" src="git%20readme%20images/lr.png"/> </a>
+<a> <img align="left" alt="aftereffects" width="60px" src="git%20readme%20images/ae.png"/> </a>
+<a> <img align="left" alt="premier_pro" width="60px" src="git%20readme%20images/pr.png"/> </a>
+<a> <img align="left" alt="cheat_engine" width="60px" src="git%20readme%20images/CheatEngine.png"/> </a>
+
+
 
 
 <!-- <a href="http://twitch.tv/lustbutt"> <img align="left" alt="twitch" width="26px" src="https://api.iconify.design/mdi:gmail.svg?color=%23EBEDEF"/></a> -->
