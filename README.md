@@ -63,6 +63,7 @@ Here are some ideas to get you started:
   
   
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=rahulsingh97&theme=radical&row=2&column=4&margin-w=15&margin-h=15) -->
+<!--
 ![trophy](https://github-profile-trophy.vercel.app/?username=rahulsingh97&theme=darkhub&row=1&column=8&margin-w=15&margin-h=15)
 </br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsingh97&show_icons=true&theme=midnight-purple)   
@@ -71,8 +72,8 @@ Here are some ideas to get you started:
 </br>
 
  <a  href="http://rahulrsingh.com"><img height="250px" src="https://github-profile-trophy.vercel.app/?username=rahulsingh97&theme=darkhub&row=2&column=4&margin-w=15&margin-h=15"/></a> 
- 
- 
+ -->
+![trophy](https://github-profile-trophy.vercel.app/?username=rahulsingh97&theme=darkhub&row=1&column=8&margin-w=15&margin-h=15) 
 <a  href="http://rahulrsingh.com"><img height="190px" src="https://github-readme-stats.vercel.app/api?username=rahulsingh97&show_icons=true&theme=midnight-purple"/>
   <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh97&layout=compact&theme=midnight-purple"/></a>
  
