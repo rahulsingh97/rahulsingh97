@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 
 <a> <img align="left" alt="vs_code" width="26px" src="git%20readme%20images/vs_code.png"/> </a>
 <a> <img align="left" alt="vs_studio" width="26px" src="git%20readme%20images/vs_studio.png"/> </a>
-<a> <img align="left" alt="android_studio" width="26px" src="git%20readme%20images/android.png"/> </a>
+<a> <img align="left" alt="android_studio" width="26px" src="git%20readme%20images/android1.png"/> </a>
 <a> <img align="left" alt="pycharm" width="26px" src="git%20readme%20images/pycharm.png"/> </a>
-<a> <img align="left" alt="arduino" width="26px" src="git%20readme%20images/arduino1.png"/> </a>
+<a> <img align="left" alt="arduino" width="26px" src="git%20readme%20images/arduino.png"/> </a>
 <a> <img align="left" alt="Jupyter" width="26px" src="git%20readme%20images/Jupyter.png"/> </a>
 <a> <img align="left" alt="photoshop" width="26px" src="git%20readme%20images/ps.png"/> </a>
 <a> <img align="left" alt="lightroom" width="26px" src="git%20readme%20images/lr.png"/> </a>
