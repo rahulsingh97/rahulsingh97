@@ -92,7 +92,7 @@ Here are some ideas to get you started:
   <img height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh97&layout=compact&theme=midnight-purple"/></a></br>
 LOL html is just websites hosted websites on my Github
 </br>
-
+![dsadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh97&theme=midnight-purple)
 ![Profile views](https://gpvc.arturio.dev/rahulsingh97)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulsingh97.rahulsingh97)
   
