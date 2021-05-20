@@ -4,7 +4,7 @@
   <img src="git%20readme%20images/chotawolverine.gif" width="75">
 </h1>
 <p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com?color=7313F7&size=32&center=true&lines=I'm+Rahul+Singh;I'm+a+Programmer;I'm+a+Gamer;I'm+a+Developer"></a>
+  <a><img src="https://readme-typing-svg.herokuapp.com?color=5cfab6&size=32&center=true&lines=I'm+Rahul+Singh;I'm+a+Programmer;I'm+a+Gamer;I'm+a+Developer"></a>
 </p>  
 
 - 🔭 I’m currently working on [AI AIMBOT]
