@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 <a> <img align="left" alt="Python" width="26px" src="git%20readme%20images/python-5.svg?raw=true"/> </a>
 <a> <img align="left" alt="C" width="26px" src="git%20readme%20images/c-programming.png"/> </a>
 <a> <img align="left" alt="C++" width="26px" src="git%20readme%20images/c++.png"/> </a>
-<a> <img align="left" alt="C#" width="31px" src="git%20readme%20images/C_Sharp.svg?raw=true"/> </a>
-<a> <img align="left" alt="LUA" width="26px" src="git%20readme%20images/Lua.svg?raw=true"/> </a>
+<a> <img align="left" alt="C#" width="31px" src="git%20readme%20images/C_Sharp_.png"/> </a>
+<a> <img align="left" alt="LUA" width="26px" src="git%20readme%20images/lua.png"/> </a>
 <a> <img align="left" alt="github" width="26px" src="git%20readme%20images/github.svg?raw=true"/> </a>
-<a> <img align="left" alt="ahk" width="31px" src="git%20readme%20images/ahk.svg?raw=true"/> </a>
+<a> <img align="left" alt="ahk" width="31px" src="git%20readme%20images/AutoHotkey.png"/> </a>
 <!--
 <a href="http://www.lua.org" target="_blank"> <img align="left" alt="LUA" width="31px" src="git%20readme%20images/       ?raw=true"/> </a>
 -->
