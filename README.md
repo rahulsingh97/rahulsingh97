@@ -103,7 +103,7 @@ LOL html is just websites hosted websites on my Github
 <a><img height="20px" src="https://visitor-badge.laobi.icu/badge?page_id=rahulsingh97.rahulsingh97"/></a>
 <a><img height="20px" src="https://badges.pufler.dev/years/rahulsingh97"/></a>
 <a><img height="20px" src="https://badges.pufler.dev/repos/rahulsingh97"/></a>
-<a><img height="20px" src="https://badges.pufler.dev/gists/rahulsingh97"/></a>
+<a><img height="20px" src="https://badges.pufler.dev/gists/rahulsingh97"/></a> 
 <a><img height="20px" src="https://badges.pufler.dev/commits/all/rahulsingh97"/></a>
 
 
