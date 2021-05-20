@@ -65,8 +65,8 @@ Here are some ideas to get you started:
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=rahulsingh97&theme=radical&row=2&column=4&margin-w=15&margin-h=15) -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=rahulsingh97&theme=darkhub&row=1&column=8&margin-w=15&margin-h=15)
 <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsingh97&show_icons=true&theme=darkhub)   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh97&layout=compact&theme=darkhub)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsingh97&show_icons=true&theme=midnight-purple)   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh97&layout=compact&theme=midnight-purple)
   
 </br>LOL html is just websites hosted websites on my git
 
