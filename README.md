@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Please don't
 - 😄 Pronouns: I, You, He, She, It, We, You, They
 - ⚡ Fun fact: I'm not funny (get it? I'm funny because I'm unfunny. No? ok.)
-<br />
+<!-- <br /> -->
 
 ---
 
