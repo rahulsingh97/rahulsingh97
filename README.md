@@ -63,7 +63,7 @@ I make mod menus for various games and software. My biggest achievement so far h
 <h3 align="left">Visitor Stats:</h3>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rahulsingh97.rahulsingh97" height="20px">
-  <img src="https://gpvc.arturio.dev/rahulsingh97" height="20px">
+  
   <img src="https://badges.pufler.dev/years/rahulsingh97" height="20px">
   <img src="https://badges.pufler.dev/repos/rahulsingh97" height="20px">
   <img src="https://badges.pufler.dev/commits/all/rahulsingh97" height="20px">
