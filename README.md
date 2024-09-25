@@ -55,11 +55,8 @@ I make mod menus for various games and software. My biggest achievement so far h
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="https://connect.rahulrsingh.com" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linktree.svg" alt="connect.rahulrsingh.com" height="30" width="40" /> </a>
-  <a href="https://x.com/rahulsingh97" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahulsingh97" height="30" width="40" /> </a>
-  <a href="https://linkedin.com/in/rahulsingh97" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahulsingh97" height="30" width="40" /> </a>
-  <a href="https://stackoverflow.com/users/rahulsingh97" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="rahulsingh97" height="30" width="40" /> </a>
-  
+  <a href="https://connect.rahulrsingh.com" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/webpack.svg" alt="connect.rahulrsingh.com" height="30" width="40" /> </a>
+ 
 </p>
 
 <h3 align="left">Visitor Stats:</h3>
