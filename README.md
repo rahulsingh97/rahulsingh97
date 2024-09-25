@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **AI-optimized software, mod menus, and IoT projects**
 - 🌱 I’m currently learning **reverse engineering and advanced AI software development**
 - 💬 Ask me about **enterprise-level software solutions, mod menus, AI optimization, and 3D printing**
-- 📫 How to reach me: **rahulsinghtech97@gmail.com**
+- 📫 How to reach me: **candyinc24@gmail.com**
 - ⚡ Fun fact: **I love exploring new tech, from IoT to cloud computing, and pushing the limits of software optimization.**
 
 ---
@@ -55,7 +55,7 @@ I make mod menus for various games and software. My biggest achievement so far h
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="https://connect.rahulrsingh.com" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/webpack.svg" alt="connect.rahulrsingh.com" height="30" width="40" /> </a>
+  <a href="https://connect.rahulrsingh.com" target="blank"> <img align="center" src="" alt="connect.rahulrsingh.com" height="30" width="40" /> </a>
  
 </p>
 
