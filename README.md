@@ -55,7 +55,7 @@ I make mod menus for various games and software. My biggest achievement so far h
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="https://connect.rahulrsingh.com" target="blank"> <img align="center" src="" alt="connect.rahulrsingh.com" height="30" width="40" /> </a>
+  <a href="https://connect.rahulrsingh.com" target="blank"> <img align="center"  alt="connect.rahulrsingh.com" height="30" width="40" /> </a>
  
 </p>
 
